@@ -1,7 +1,10 @@
 # Machine Health Monitoring System
 IoT course project at LNU
 # Project objectives
-Most of our applications in pulp & paper industry we use seals and bearings that are working under high temperature circumstance and contaains rotors. Bearing and seals have cooling media: oil for bearings and water for seals. My project intend to design a system reads media temperature and revolutions number of rotor continuously, and visualize these parameters to monitor mahine health remotely.
+Most of our applications in pulp & paper machinery we use rotors and bearing houses that are operating continuously. This project is aiming to design a machine monitoring system consists of  Tachometer and Thermometer, which collect data from concerned machine and publish it on MQTT broker to allow remote monitoring. 
+The RPM readings (from tachometer)  used to detect rotor speed deviation which may indicates bearings deterioration. The temperature readings (from thermometer)  used to detect overheating in bearing house which indicates bearing issues such as lubrication, overload and heat dissipation.
+This system can be used for early fault identification.
+
 
 This system can be used either as prediction tool for any trouble or as "Black Box" in case of machine trip.
 # Roadmap
