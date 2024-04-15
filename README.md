@@ -22,3 +22,6 @@ This system can be used for early fault identification.
   
 - Network protocol: I have tested the connection with WiFi
 - Data visualization on Adafruit, created account,published from Heltec board to specific feeds.
+
+  ![image](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/adc2ceeb-e46d-413c-885a-3380d3b57302)
+
