@@ -8,6 +8,9 @@ This system can be used for early fault identification.
 # Roadmap
 - IDE: Arduino C++
 - MCU: Heltec LoRa32 (V3), installed drivers, checked the pinmap.
+
+  ![image](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/2ff06d71-5ec2-4bda-ac15-b1c0d1682b32)
+
 - Sensors:
     Digital temperature & humidity sensor DH11 (This is just for prototyping, It should be replaced later with DS18b20)
     Hall effect sensor KY-028
