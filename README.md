@@ -5,7 +5,7 @@ Most of our applications in pulp & paper machinery we use rotors and bearing hou
 The RPM readings (from tachometer)  used to detect rotor speed deviation which may indicates bearings deterioration. The temperature readings (from thermometer)  used to detect overheating in bearing house which indicates bearing issues such as lubrication, overload and heat dissipation.
 This system can be used for early fault identification.
 
-![image](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/7ef2deca-176d-4f8d-8e44-0cb9f6f71f7a)
+![20240415_141715](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/3132adbf-2a09-4e60-a677-89ec5974d787)
 
 
 # Roadmap
