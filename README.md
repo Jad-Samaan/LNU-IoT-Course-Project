@@ -12,4 +12,4 @@ This system can be used either as prediction tool for any trouble or as "Black B
 - MCU: Heltec LoRa32, installed drivers, checked the pinmap, have some issues with libraries.
 - Sensors: did not test yet.
 - Network protocol: I have tested the connection with WiFi
-- Data visualization on Adafruit, created account,published from Heltec board to a specific feed.
+- Data visualization on Adafruit, created account,published from Heltec board to specific feeds.
