@@ -15,7 +15,8 @@ This system can be used for early fault identification.
     Digital temperature & humidity sensor DH11 (This is just for prototyping, It should be replaced later with DS18b20)
     Hall effect sensor KY-028
 
-  ![image](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/60be6c30-4a6f-412d-aab6-ed19cec21552) ![image](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/4b95f068-0540-4e4a-af9f-f9240dfc7a32)
+ ![image](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/5328e4bc-d4de-45e9-a305-41a79c144c62)
+
 
   
 
