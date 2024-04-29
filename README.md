@@ -19,7 +19,7 @@ This system can be used for early fault identification.
 ## Material
 | Product       | Where to buy  | Description   | Price |
 | ------------- | ------------- | ------------- | ------------- |
-| Heltec LoRa32 (V3) microcontroller |https://www.amazon.se/dp/B08243JHMW?ref_=pe_24982401_518009621_302_E_DDE_dt_1&th=1|
+| Heltec LoRa32 (V3) microcontroller |(https://www.amazon.se/dp/B08243JHMW?ref_=pe_24982401_518009621_302_E_DDE_dt_1&th=1)|
 
 
 ![image](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/06054efb-7743-46ad-b228-a06c71a967a4)
