@@ -29,7 +29,7 @@ This system can be used for early fault identification.
 
 ## Environment setup
 1. Install needed drivers for MCU board from Heltec Automation.
-2. Install Arduino IDE to program in C++ / Arduino language
+2. Install Arduino IDE to program in C++ / Arduino environment
 3. Install following libraries
   - "PubSubClient.h" to talk with MQTT server
   - <WiFi.h> to connect WiFi network
@@ -39,9 +39,19 @@ This system can be used for early fault identification.
 1. Connect the antenna to MCU
 2. Connect MCU and sensors acc. pin mapping
 3. Connect the MCU to the computer via USB cable
-4. 
 
+## The Code
 
+## The physical network layer
+Set up the communication with Adafruit MQTT server usnig WiFi
+
+## Visualisation and user interface
+Data visualzation can performrd using Adafruit dashboards 
+
+## Finalizing the design
+In this course I made a POC prototype for the concerned project. When it comes to the industrial real application, some enhancements should be implemented:
+- Communicate with TTN to reduce power consumption using Webhooks between TTN and MQTT server.
+- Improve the accuracy of parameter reading by installing more sensitive sensors.
 
 ![Schematic diagram](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/f6e26a2e-687c-4d11-8c76-6cc45bdcce7a)
 
