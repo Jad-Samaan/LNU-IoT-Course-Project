@@ -19,12 +19,15 @@ This system can be used for early fault identification.
 ## Material
 | Product       | Where to buy  | Description   | Price |
 | ------------- | ------------- | ------------- | ------------- |
-| Heltec LoRa32 (V3) microcontroller |Amazone.se|MCU, ESP32, LoRa & WiFi support|350SEK|
+| Heltec LoRa32 (V3) microcontroller |Amazone.se|MCU, ESP32, LoRa & WiFi support|350 SEK|
+| KY-024 module |Hobby King |Hall effect digital sensor|  SEK|
+| DHT11 module |          |Humidity & temerature digital sensor |  SEK|
 
 
-![image](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/06054efb-7743-46ad-b228-a06c71a967a4)
-  | Content Cell  |
-| Content Cell  | Content Cell  | 
+
+
+
+
 
 ![Schematic diagram](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/f6e26a2e-687c-4d11-8c76-6cc45bdcce7a)
 
