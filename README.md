@@ -51,7 +51,7 @@ Data visualzation can performrd using Adafruit dashboards
 ## Finalizing the design
 In this course I made a POC prototype for the concerned project. When it comes to the industrial real application, some enhancements should be implemented:
 - Communicate with TTN to reduce power consumption using Webhooks between TTN and MQTT server.
-- Improve the accuracy of parameter reading by installing more sensitive sensors.
+- Improve the accuracy of parameter reading by installing more sensitive and idustrial sensors.
 
 ![Schematic diagram](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/f6e26a2e-687c-4d11-8c76-6cc45bdcce7a)
 
