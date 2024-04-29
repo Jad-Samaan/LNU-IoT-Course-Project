@@ -35,6 +35,11 @@ This system can be used for early fault identification.
   - <WiFi.h> to connect WiFi network
   - "dht11.h" to use DHT11 sensor
 
+## Putting everything together
+1. Connect the antenna to MCU
+2. Connect MCU and sensors acc. pin mapping
+3. Connect the MCU to the computer via USB cable
+4. 
 
 
 
