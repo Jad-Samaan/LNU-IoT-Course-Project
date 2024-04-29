@@ -1,6 +1,6 @@
 # Machine Health Monitoring System
 ## Detects bearing issues by reading an comparing machine rotor parameters
-# Table of Contents
+### Table of Contents
 1. [objectives]
 
 # Project objectives
