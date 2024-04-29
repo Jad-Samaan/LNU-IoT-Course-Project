@@ -31,9 +31,9 @@ This system can be used for early fault identification.
 1. Install needed drivers for MCU board from Heltec Automation.
 2. Install Arduino IDE to program in C++ / Arduino language
 3. Install following libraries
-  "PubSubClient.h" to talk with MQTT server
-  <WiFi.h> to connect WiFi network
-  "dht11.h" to use DHT11 sensor
+  - "PubSubClient.h" to talk with MQTT server
+  - <WiFi.h> to connect WiFi network
+  - "dht11.h" to use DHT11 sensor
 
 
 
