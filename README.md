@@ -18,7 +18,7 @@ The RPM readings (from tachometer)  used to detect rotor speed deviation which m
 This system can be used for early fault identification.
 ## Material
 | Product       | Where to buy  | 
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | Heltec LoRa32 (V3) microcontroller |
 
 
