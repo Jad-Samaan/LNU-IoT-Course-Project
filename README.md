@@ -16,17 +16,24 @@ References
 Most of our applications in pulp & paper machinery we use rotors and bearing houses that are operating continuously. This project is aiming to design a machine monitoring system consists of  Tachometer and Thermometer, which collect data from concerned machine and publish it on MQTT broker to allow remote monitoring. 
 The RPM readings (from tachometer)  used to detect rotor speed deviation which may indicates bearings deterioration. The temperature readings (from thermometer)  used to detect overheating in bearing house which indicates bearing issues such as lubrication, overload and heat dissipation.
 This system can be used for early fault identification.
+
 ## Material
+
 | Product       | Where to buy  | Description   | Price |
 | ------------- | ------------- | ------------- | ------------- |
 | Heltec LoRa32 (V3) microcontroller |Amazone.se|MCU, ESP32, LoRa & WiFi support|350 SEK|
 | KY-024 module |Hobby King |Hall effect digital sensor|  SEK|
 | DHT11 module |          |Humidity & temerature digital sensor |  SEK|
 | KY-002 module |          |Vibration switch sensor |15  SEK|
-|Power supply module |          |Powers the bread board with 9v battery |15  SEK|
+|Power supply module |          |Powers the bread board with 9v battery |  SEK|
 
-
-
+## Environment setup
+1. Install needed drivers for MCU board from Heltec Automation.
+2. Install Arduino IDE to program in C++ / Arduino language
+3. Install following libraries
+  "PubSubClient.h" to talk with MQTT server
+  <WiFi.h> to connect WiFi network
+  "dht11.h" to use DHT11 sensor
 
 
 
