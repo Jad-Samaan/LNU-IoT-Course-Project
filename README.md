@@ -22,6 +22,8 @@ This system can be used for early fault identification.
 | Heltec LoRa32 (V3) microcontroller |Amazone.se|MCU, ESP32, LoRa & WiFi support|350 SEK|
 | KY-024 module |Hobby King |Hall effect digital sensor|  SEK|
 | DHT11 module |          |Humidity & temerature digital sensor |  SEK|
+| KY-002 module |          |Vibration switch sensor |15  SEK|
+|Power supply module |          |Powers the bread board with 9v battery |15  SEK|
 
 
 
