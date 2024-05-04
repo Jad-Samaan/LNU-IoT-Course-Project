@@ -56,7 +56,7 @@ In this course I made a POC prototype for the concerned project. When it comes t
 - Improve the accuracy of parameter reading by installing more sensitive and idustrial sensors.
 
 # References
-(https://www.youtube.com/watch?v=az6m_upGleU&list=PL70wNv4dBdJxh0lJjnLlQjqh9rshaht6X&index=21)
+https://www.youtube.com/watch?v=az6m_upGleU&list=PL70wNv4dBdJxh0lJjnLlQjqh9rshaht6X&index=21
 
 
 
