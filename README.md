@@ -57,6 +57,7 @@ In this course I made a POC prototype for the concerned project. When it comes t
 
 # References
 https://www.youtube.com/watch?v=az6m_upGleU&list=PL70wNv4dBdJxh0lJjnLlQjqh9rshaht6X&index=21
+https://docs.heltec.org/en/node/esp32/quick_start.html
 
 
 
@@ -91,5 +92,6 @@ https://www.youtube.com/watch?v=az6m_upGleU&list=PL70wNv4dBdJxh0lJjnLlQjqh9rshah
 - Data visualization on Adafruit, created account,published from Heltec board to specific feeds.
 
 ![Data Visualization](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/33615433-03e2-4222-a217-3f1c0668dff3)
+
 
 
