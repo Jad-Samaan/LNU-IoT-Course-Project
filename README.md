@@ -20,11 +20,22 @@ This system can be used for early fault identification.
 
 | Product       | Where to buy  | Description   | Price |
 | ------------- | ------------- | ------------- | ------------- |
-| Heltec LoRa32 (V3) microcontroller |Amazone.se|MCU, ESP32, LoRa & WiFi support|350 SEK|
-| KY-024 module |Hobby King |Hall effect digital sensor|  SEK|
+| Heltec LoRa32 (V3) microcontroller | [link](https://www.amazon.se/dp/B08243JHMW?ref_=pe_24982401_518009621_302_E_DDE_dt_1)|MCU, ESP32, LoRa & WiFi support|350 SEK|
+| KY-024 module |[CONRAD]([https://www.elecbee.com/en-25755-KY-024-4pin-Linear-Magnetic-Switches-Speed-Counting-Hall-Sensor-Module?srsltid=AfmBOorAhfsdkkDF4iAIMdi11oZEC1BLC0Bt0tlnnuFqLrIr4vYlWTo4tVQ](https://www.conrad.se/sv/p/hall-effektsensor-1485303-arduino-1485303.html?utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=1485303&gad_source=1&gclid=EAIaIQobChMIkKD8u8D0hQMV6QCiAx1Qkg1_EAQYBSABEgJHY_D_BwE)) |Hall effect digital sensor|  SEK|
 | DHT11 module |          |Humidity & temerature digital sensor |  SEK|
 | KY-002 module |          |Vibration switch sensor |15  SEK|
 |Power supply module |          |Powers the bread board with 9v battery |  SEK|
+
+| Product | Where to buy | Description | Price |
+| --------- | ---------------- | ---------------- | ----------------: |
+| NodeMCU ESP32 Heltec | [link](https://www.amazon.se/dp/B08243JHMW?ref_=pe_24982401_518009621_302_E_DDE_dt_1) | Microcontroller supporting WiFi and Lora. Built in OLED display. | 350SEK |
+| Vibration sensor high sensitivity | [link](https://www.electrokit.com/produkt/vibrationssensor-hog-kanslighet/) | Measures vibration through digital output | 42SEK |
+| Jumper wires male-male | [link](https://www.electrokit.com/produkt/labbsladd-40-pin-30cm-hane-hane/) | Wires to connect the circuits | 49SEK |
+| Jumper wires female-male | [link](https://www.electrokit.com/produkt/labbsladd-40-pin-30cm-hona-hane/) | Wires to connect the circuits | 49SEK |
+| USB to Micro USB cable | [link](https://www.kjell.com/se/produkter/kablar-kontakter/usb-kablar/linocell-micro-usb-kabel-svart-05-m-p93424?gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jdFMu6K6bP9FJbrX_VwUeSgRLyFK9sPdiU4-TL19HrHKeCEr88ER2IaAqSyEALw_wcB&gclsrc=aw.ds) | Cable to program the device | 110SEK |
+| Battery | [link](https://www.kjell.com/se/produkter/el-verktyg/laddare/mobilladdare/powerbank/linocell-powerbank-10000-mah-p89256) | Power supply | 199SEK |
+| Breadboard | [link](https://sizable.se/P.TVY7M/Kopplingsdack-med-830-punkter) | Breadboard to connect device and sensor during development | 59SEK |
+
 
 ## Environment setup
 1. Install needed drivers for MCU board from Heltec Automation.
