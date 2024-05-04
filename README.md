@@ -1,5 +1,15 @@
 # Machine Health Monitoring System
 ## Detects bearing issues by reading an comparing machine rotor parameters
+1. [Objectives](#Objectives)
+2. [Material](#Material)
+3. [Environment setup](#Environment-setup)
+4. [Putting everything together](#Putting-everything-together)
+5. [Platforms and infrastructure](#Platforms-and-infrastructure)
+6. [The code](#The-code)
+7. [The physical network layer](#The-physical-network-layer)
+8. [Visualisation and user interface](#Visualisation-and-user-interface)
+9. [Finalizing the design](#Finalizing-the-design)
+9. [References](#References)
 
 ## Objectives
 Most of our applications in pulp & paper machinery we use rotors and bearing houses that are operating continuously. This project is aiming to design a machine monitoring system consists of  Tachometer and Thermometer, which collect data from concerned machine and publish it on MQTT broker to allow remote monitoring. 
