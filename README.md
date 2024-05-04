@@ -24,7 +24,9 @@ This system can be used for early fault identification.
 | KY-024 module |[Conrad](https://www.conrad.se/sv/p/hall-effektsensor-1485303-arduino-1485303.html?utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=1485303&gad_source=1&gclid=EAIaIQobChMIkKD8u8D0hQMV6QCiAx1Qkg1_EAQYBSABEgJHY_D_BwE)|Hall effect digital sensor|42 SEK|
 | DHT11 module |[M.NU](https://www.m.nu/sensorer-matinstrument/dht11-basic-temperature-humidity-sensor-extras-1?srsltid=AfmBOorLXW_rPV_zYkX4GU9dweg2mRc9Y7y5fdeVRWpZpyMFvfTcuSQaqlA)|Humidity & temerature digital sensor |55 SEK|
 | KY-002 module |[Electrokit](https://www.electrokit.com/vibrationssensor?gad_source=1&gclid=EAIaIQobChMIvprl78T0hQMVnwuiAx3COw_3EAQYAyABEgICSvD_BwE)|Vibration switch sensor |29 SEK|
-|Power supply module|[M.NU](https://www.m.nu/breadboarding/breadboard-power-supply-assembled-3-3v-5v-output?srsltid=AfmBOor5E_Hh1M0d4MLVzGWZ6Szp_-FCtS_we5MxzKzrBhdCsADn4298CgQ)|Breadboard power supply - assembled 3,3V/5V output|59 SEK|
+|MB102 module|[M.NU](https://www.m.nu/breadboarding/breadboard-power-supply-assembled-3-3v-5v-output?srsltid=AfmBOor5E_Hh1M0d4MLVzGWZ6Szp_-FCtS_we5MxzKzrBhdCsADn4298CgQ)|Breadboard power supply - assembled 3,3V/5V output|59 SEK|
+| Breadboard | [Sizable](https://sizable.se/P.TVY7M/Kopplingsdack-med-830-punkter) |Main board to connect all components | 59SEK |
+
 
 | Product | Where to buy | Description | Price |
 | --------- | ---------------- | ---------------- | ----------------: |
@@ -34,7 +36,7 @@ This system can be used for early fault identification.
 | Jumper wires female-male | [link](https://www.electrokit.com/produkt/labbsladd-40-pin-30cm-hona-hane/) | Wires to connect the circuits | 49SEK |
 | USB to Micro USB cable | [link](https://www.kjell.com/se/produkter/kablar-kontakter/usb-kablar/linocell-micro-usb-kabel-svart-05-m-p93424?gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jdFMu6K6bP9FJbrX_VwUeSgRLyFK9sPdiU4-TL19HrHKeCEr88ER2IaAqSyEALw_wcB&gclsrc=aw.ds) | Cable to program the device | 110SEK |
 | Battery | [link](https://www.kjell.com/se/produkter/el-verktyg/laddare/mobilladdare/powerbank/linocell-powerbank-10000-mah-p89256) | Power supply | 199SEK |
-| Breadboard | [link](https://sizable.se/P.TVY7M/Kopplingsdack-med-830-punkter) | Breadboard to connect device and sensor during development | 59SEK |
+| Breadboard | [link](https://sizable.se/P.TVY7M/Kopplingsdack-med-830-punkter) | Project board  | 59SEK |
 
 
 ## Environment setup
