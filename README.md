@@ -46,6 +46,8 @@ This system can be used for early fault identification.
 
 ## The physical network layer
 Set up the communication with Adafruit MQTT server usnig WiFi
+![Presentation1](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/3c7e54a8-d61b-47fd-a38b-acb382662ae5)
+
 
 ## Visualisation and user interface
 Data visualzation can performrd using Adafruit dashboards 
