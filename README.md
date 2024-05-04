@@ -21,14 +21,10 @@ This system can be used for early fault identification.
 | Product       | Where to buy  | Description   | Price |
 | ------------- | ------------- | ------------- | ------------- |
 | Heltec LoRa32 (V3) microcontroller | [Amazon](https://www.amazon.se/dp/B08243JHMW?ref_=pe_24982401_518009621_302_E_DDE_dt_1)|MCU, ESP32, LoRa & WiFi support|350 SEK|
-| KY-024 module |[Conrad](https://www.conrad.se/sv/p/hall-effektsensor-1485303-arduino-1485303.html?utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=1485303&gad_source=1&gclid=EAIaIQobChMIkKD8u8D0hQMV6QCiAx1Qkg1_EAQYBSABEgJHY_D_BwE)|42 SEK|
-
-
-
-
-| DHT11 module |          |Humidity & temerature digital sensor |  SEK|
-| KY-002 module |          |Vibration switch sensor |15  SEK|
-|Power supply module |          |Powers the bread board with 9v battery |  SEK|
+| KY-024 module |[Conrad](https://www.conrad.se/sv/p/hall-effektsensor-1485303-arduino-1485303.html?utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=1485303&gad_source=1&gclid=EAIaIQobChMIkKD8u8D0hQMV6QCiAx1Qkg1_EAQYBSABEgJHY_D_BwE)|Hall effect digital sensor|42 SEK|
+| DHT11 module |[M.NU](https://www.m.nu/sensorer-matinstrument/dht11-basic-temperature-humidity-sensor-extras-1?srsltid=AfmBOorLXW_rPV_zYkX4GU9dweg2mRc9Y7y5fdeVRWpZpyMFvfTcuSQaqlA)|Humidity & temerature digital sensor |55 SEK|
+| KY-002 module |[Electrokit](https://www.electrokit.com/vibrationssensor?gad_source=1&gclid=EAIaIQobChMIvprl78T0hQMVnwuiAx3COw_3EAQYAyABEgICSvD_BwE)|Vibration switch sensor |29 SEK|
+|Power supply module|[M.NU](https://www.m.nu/breadboarding/breadboard-power-supply-assembled-3-3v-5v-output?srsltid=AfmBOor5E_Hh1M0d4MLVzGWZ6Szp_-FCtS_we5MxzKzrBhdCsADn4298CgQ)|Breadboard power supply - assembled 3,3V/5V output|59 SEK|
 
 | Product | Where to buy | Description | Price |
 | --------- | ---------------- | ---------------- | ----------------: |
