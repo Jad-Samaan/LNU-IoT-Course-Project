@@ -2,7 +2,7 @@
 #include <WiFi.h>
 #include "dht11.h"
 
-// Office WiFi credentials
+// WiFi credentials
 const char* ssid = "XXXXXXXXXXXX";
 const char* password = "XXXXXXXXXXXX";
 
@@ -44,7 +44,7 @@ void countRotation() {
  
 void setup() {
  
- // Begin serial communication at 9600 baud
+ // Begin serial communication at 9600 baud to see the program output 
   Serial.begin(9600);   
   WiFi.begin(ssid, password);
   client.setServer(mqttServer, mqttPort);
