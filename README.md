@@ -39,7 +39,9 @@ This system can be used for early fault identification.
 1. Connect the antenna to MCU
 2. Connect MCU and sensors acc. pin mapping
 3. Connect the MCU to the computer via USB cable
+4. Mount a neodymium magnet on a rotating shaft (electrical screwdriver for example).
 
+   
 ## The Code
 
 ## The physical network layer
