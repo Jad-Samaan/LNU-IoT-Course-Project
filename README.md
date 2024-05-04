@@ -27,18 +27,6 @@ This system can be used for early fault identification.
 |MB102 module|[M.NU](https://www.m.nu/breadboarding/breadboard-power-supply-assembled-3-3v-5v-output?srsltid=AfmBOor5E_Hh1M0d4MLVzGWZ6Szp_-FCtS_we5MxzKzrBhdCsADn4298CgQ)|Breadboard power supply - assembled 3,3V/5V output|59 SEK|
 | Breadboard | [Sizable](https://sizable.se/P.TVY7M/Kopplingsdack-med-830-punkter) |Main board to connect all components | 59SEK |
 
-
-| Product | Where to buy | Description | Price |
-| --------- | ---------------- | ---------------- | ----------------: |
-| NodeMCU ESP32 Heltec | [link](https://www.amazon.se/dp/B08243JHMW?ref_=pe_24982401_518009621_302_E_DDE_dt_1) | Microcontroller supporting WiFi and Lora. Built in OLED display. | 350SEK |
-| Vibration sensor high sensitivity | [link](https://www.electrokit.com/produkt/vibrationssensor-hog-kanslighet/) | Measures vibration through digital output | 42SEK |
-| Jumper wires male-male | [link](https://www.electrokit.com/produkt/labbsladd-40-pin-30cm-hane-hane/) | Wires to connect the circuits | 49SEK |
-| Jumper wires female-male | [link](https://www.electrokit.com/produkt/labbsladd-40-pin-30cm-hona-hane/) | Wires to connect the circuits | 49SEK |
-| USB to Micro USB cable | [link](https://www.kjell.com/se/produkter/kablar-kontakter/usb-kablar/linocell-micro-usb-kabel-svart-05-m-p93424?gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jdFMu6K6bP9FJbrX_VwUeSgRLyFK9sPdiU4-TL19HrHKeCEr88ER2IaAqSyEALw_wcB&gclsrc=aw.ds) | Cable to program the device | 110SEK |
-| Battery | [link](https://www.kjell.com/se/produkter/el-verktyg/laddare/mobilladdare/powerbank/linocell-powerbank-10000-mah-p89256) | Power supply | 199SEK |
-| Breadboard | [link](https://sizable.se/P.TVY7M/Kopplingsdack-med-830-punkter) | Project board  | 59SEK |
-
-
 ## Environment setup
 1. Install needed drivers for MCU board from Heltec Automation.
 2. Install Arduino IDE to program in C++ / Arduino environment
