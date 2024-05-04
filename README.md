@@ -21,7 +21,7 @@ This system can be used for early fault identification.
 | Product       | Where to buy  | Description   | Price |
 | ------------- | ------------- | ------------- | ------------- |
 | Heltec LoRa32 (V3) microcontroller | [Amazon](https://www.amazon.se/dp/B08243JHMW?ref_=pe_24982401_518009621_302_E_DDE_dt_1)|MCU, ESP32, LoRa & WiFi support|350 SEK|
-| KY-024 module |[Conrad]([https://www.elecbee.com/en-25755-KY-024-4pin-Linear-Magnetic-Switches-Speed-Counting-Hall-Sensor-Module?srsltid=AfmBOorAhfsdkkDF4iAIMdi11oZEC1BLC0Bt0tlnnuFqLrIr4vYlWTo4tVQ](https://www.conrad.se/sv/p/hall-effektsensor-1485303-arduino-1485303.html?utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=1485303&gad_source=1&gclid=EAIaIQobChMIkKD8u8D0hQMV6QCiAx1Qkg1_EAQYBSABEgJHY_D_BwE)) |Hall effect digital sensor|  SEK|
+| KY-024 module |[Conrad](https://www.conrad.se/sv/p/hall-effektsensor-1485303-arduino-1485303.html?utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=1485303&gad_source=1&gclid=EAIaIQobChMIkKD8u8D0hQMV6QCiAx1Qkg1_EAQYBSABEgJHY_D_BwE|Hall effect digital sensor)|42 SEK|
 | DHT11 module |          |Humidity & temerature digital sensor |  SEK|
 | KY-002 module |          |Vibration switch sensor |15  SEK|
 |Power supply module |          |Powers the bread board with 9v battery |  SEK|
