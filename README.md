@@ -57,6 +57,7 @@ In this course I made a POC prototype for the concerned project. When it comes t
 
 # References
 https://www.youtube.com/watch?v=az6m_upGleU&list=PL70wNv4dBdJxh0lJjnLlQjqh9rshaht6X&index=21
+
 https://docs.heltec.org/en/node/esp32/quick_start.html
 
 
