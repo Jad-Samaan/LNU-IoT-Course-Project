@@ -1,13 +1,5 @@
 
-![Schematic diagram](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/f6e26a2e-687c-4d11-8c76-6cc45bdcce7a)
 
-
-![20240415_141715](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/3132adbf-2a09-4e60-a677-89ec5974d787)
-
-
-# Roadmap
-- IDE: Arduino C++
-- MCU: Heltec LoRa32 (V3), installed drivers, checked the pinmap.
 
   ![image](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/2ff06d71-5ec2-4bda-ac15-b1c0d1682b32)
 
