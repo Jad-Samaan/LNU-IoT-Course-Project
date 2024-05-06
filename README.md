@@ -41,6 +41,11 @@ This system can be used for early fault identification.
 3. Connect the MCU to the computer via USB cable
 4. Mount a neodymium magnet on a rotating shaft (electrical screwdriver for example).
 
+![shared image (1)](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/b6ba46d6-3e27-4445-95a3-58035814651a)
+
+![shared image](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/270d9cb4-ae47-4db5-84ad-ef374f7d2e46)
+
+
    
 ## The Code
 
