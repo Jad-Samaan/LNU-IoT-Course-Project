@@ -57,6 +57,13 @@ Set up the communication with Adafruit MQTT server usnig WiFi
 ## Visualisation and user interface
 Data visualzation can performrd using Adafruit dashboards 
 
+![TEMP Dashboard](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/6754c9d6-55d3-4ab3-b0c5-1c2050b7cd2c)
+
+![VIB Dashboard 01](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/90026331-79c5-44d9-8b85-554bf67424a1)
+
+![RPM Dashboard](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/7c575882-e8f0-429e-b418-c7cca0d36bc8)
+
+
 ## Finalizing the design
 In this course I made a POC prototype for the concerned project. When it comes to the industrial real application, some enhancements should be implemented:
 - Communicate with TTN to reduce power consumption using Webhooks between TTN and MQTT server.
