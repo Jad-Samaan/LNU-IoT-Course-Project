@@ -74,4 +74,6 @@ https://www.youtube.com/watch?v=az6m_upGleU&list=PL70wNv4dBdJxh0lJjnLlQjqh9rshah
 
 https://docs.heltec.org/en/node/esp32/quick_start.html
 
+https://forum.arduino.cc/t/ky-024-hall-effect-sensor-for-rpms-under-400/507718
+
 
