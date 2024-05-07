@@ -57,12 +57,12 @@ Set up the communication with Adafruit MQTT server usnig WiFi
 ## Visualisation and user interface
 Data visualzation can performrd using Adafruit dashboards 
 
-![TEMP Dashboard](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/6754c9d6-55d3-4ab3-b0c5-1c2050b7cd2c)
 
-![VIB Dashboard 01](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/90026331-79c5-44d9-8b85-554bf67424a1)
+![RPM Dashboard 01](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/687b5c5f-36bc-4435-b8f8-6c25740f9901)
 
-![RPM Dashboard](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/7c575882-e8f0-429e-b418-c7cca0d36bc8)
+![TEMP Dashboard 01](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/88392489-587f-4b6d-8001-8977a5a1b377)
 
+![VIB Dashboard 01](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/d2f217d6-2bad-454b-a9a5-7c87fc5d498a)
 
 ## Finalizing the design
 In this course I made a POC prototype for the concerned project. When it comes to the industrial real application, some enhancements should be implemented:
