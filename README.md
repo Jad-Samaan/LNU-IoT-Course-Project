@@ -57,6 +57,7 @@ Set up the communication with Adafruit MQTT server usnig WiFi
 ## Visualisation and user interface
 Data visualzation can performrd using Adafruit dashboards 
 
+Click on chart to see the coordinates
 
 ![RPM Dashboard 01](https://github.com/Jad-Samaan/LNU-IoT-Course-Project/assets/163136017/687b5c5f-36bc-4435-b8f8-6c25740f9901)
 
