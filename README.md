@@ -20,12 +20,12 @@ This system can be used for early fault identification.
 
 | Product       | Description   |
 | ------------- | ------------- |
-| Heltec LoRa32 (V3) microcontroller |MCU, ESP32, LoRa & WiFi support
-| KY-024 module|Hall effect digital sensor
-| DHT11 module Humidity & temerature digital sensor 
-| KY-002 module |Vibration switch sensor |
-|MB102 module|Breadboard power supply - assembled 3,3V/5V output
-| Breadboard |Main board to connect all components 
+| Heltec LoRa32 (V3) microcontroller | MCU, ESP32, LoRa & WiFi support
+| KY-024 module| Hall effect digital sensor
+| DHT11 module | Humidity & temerature digital sensor 
+| KY-002 module | Vibration switch sensor |
+|MB102 module| Breadboard power supply - assembled 3,3V/5V output
+| Breadboard | Main board to connect all components 
 
 ## Environment setup
 1. Install needed drivers for MCU board from Heltec Automation.
