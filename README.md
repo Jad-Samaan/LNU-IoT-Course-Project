@@ -20,7 +20,7 @@ This system can be used for early fault identification.
 
 | Product       | Description   |
 | ------------- | ------------- |
-| Heltec LoRa32 (V3) microcontroller | [Amazon](https://www.amazon.se/dp/B08243JHMW?ref_=pe_24982401_518009621_302_E_DDE_dt_1)|MCU, ESP32, LoRa & WiFi support
+| Heltec LoRa32 (V3) microcontroller |MCU, ESP32, LoRa & WiFi support
 | KY-024 module |[Conrad](https://www.conrad.se/sv/p/hall-effektsensor-1485303-arduino-1485303.html?utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=1485303&gad_source=1&gclid=EAIaIQobChMIkKD8u8D0hQMV6QCiAx1Qkg1_EAQYBSABEgJHY_D_BwE)|Hall effect digital sensor
 | DHT11 module |[M.NU](https://www.m.nu/sensorer-matinstrument/dht11-basic-temperature-humidity-sensor-extras-1?srsltid=AfmBOorLXW_rPV_zYkX4GU9dweg2mRc9Y7y5fdeVRWpZpyMFvfTcuSQaqlA)|Humidity & temerature digital sensor 
 | KY-002 module |[Electrokit](https://www.electrokit.com/vibrationssensor?gad_source=1&gclid=EAIaIQobChMIvprl78T0hQMVnwuiAx3COw_3EAQYAyABEgICSvD_BwE)|Vibration switch sensor |
